@@ -1,0 +1,32 @@
+=========================IMPALA CAR RENTAL SYSTEM==========================
+
+First run the login page to launch the program. From the login page enter 
+the username and password as per the database and also use the combo-box 
+to verify.
+
+corporate login :USERNAME::scot......PASSWORD::scot@47
+
+Employees login :USERNAME::kuda......PASSWORD::kuda@12
+
+Clients login :USERNAME::claire......PASSWORD::claire@45
+
+
+Depending with the login detail your will be show the corporate panel or 
+employees¡¯ panel or the clients¡¯ panel.All these panel have different 
+functionalities. 
+
+In the corporate panel the user can view all cars, employees and clients.
+The user will also be able to search, delete or add to all the modules 
+-this refers to adding or deleting from the Suppliers, Employees or 
+Clients module.
+
+In the Employees¡¯ panel user can view only available cars and Clients. 
+The user will also be able to perform searches, additions and deletions 
+of records.
+In the Clients panel the user the user can only view available cars and
+ will have the option to rent a Car. The rent out option will bring a 
+form for the user to fill in details of their rental and will proceed 
+to give the order number after check-out. 
+
+
+=========================IMPALA CAR RENTAL SYSTEM==========================
